@@ -9,7 +9,7 @@ Source code for SleepFocalNet developed for the paper "Temporal Focal Modulation
 The model was trained and evaluated on Sleep Heart Health Study (SHHS)
 
 The architecture of SleepFocalNet:
-...
+![image](https://github.com/user-attachments/assets/fc315cc0-3fff-4ffd-97a1-85b7a3c94468)
 
 ## Training
 The model can be trained from scratch using the Jupyter notebook: `main.ipynb` Note that PSG data and labels should be downloaded from https://sleepdata.org/datasets/shhs/ . 
