@@ -18,7 +18,8 @@ The model can be trained from scratch using the Jupyter notebook: `main.ipynb` N
 Model can be evaluated the Jupyter notebooks: `main.ipynb` after training or loading weights. Weights of the pre-trained model can be found in https://github.com/hasanzan/SleepFocalNet/.
 
 ## Examples
-Will be updated
+![fig_hypnogram](https://github.com/user-attachments/assets/c1fe231b-bfa4-41cb-8233-48619926f474)
+
 
 ## Cite as
 Will be updated 
