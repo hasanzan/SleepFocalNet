@@ -1,7 +1,5 @@
 # Temporal Focal Modulation Networks for Sleep Stage Scoring
 
-## $${\color{red}\text {This repository will be updated after the paper is accepted}}$$
-
 ## Introduction
 Source code for SleepFocalNet developed for the paper "Temporal Focal Modulation Networks for Sleep Stage Scoring"
 
