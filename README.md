@@ -13,7 +13,7 @@ The architecture of SleepFocalNet:
 The model can be trained from scratch using the Jupyter notebook: `main.ipynb` Note that PSG data and labels should be downloaded from https://sleepdata.org/datasets/shhs/ . 
 
 ## Evaluation
-Model can be evaluated the Jupyter notebooks: `main.ipynb` after training or loading weights. Weights of the pre-trained model can be found in https://github.com/hasanzan/SleepFocalNet/.
+Model can be evaluated the Jupyter notebooks: `main.ipynb` after training or loading weights. Weights of the pre-trained model can be found in https://github.com/hasanzan/SleepFocalNet/blob/main/model_weights.pt.
 
 ## Examples
 ![fig_hypnogram](https://github.com/user-attachments/assets/c1fe231b-bfa4-41cb-8233-48619926f474)
