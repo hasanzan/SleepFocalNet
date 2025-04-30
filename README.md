@@ -1,4 +1,5 @@
 # Temporal Focal Modulation Networks for Sleep Stage Scoring
+Paper: https://doi.org/10.1007/s10044-025-01475-0
 
 ## Introduction
 Source code for SleepFocalNet developed for the paper "Temporal Focal Modulation Networks for Sleep Stage Scoring"
@@ -20,4 +21,4 @@ Model can be evaluated the Jupyter notebooks: `main.ipynb` after training or loa
 
 
 ## Cite as
-Will be updated 
+Zan, H. Temporal focal modulation networks for sleep stage scoring. Pattern Anal Applic 28, 92 (2025). https://doi.org/10.1007/s10044-025-01475-0 
